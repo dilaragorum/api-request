@@ -1,0 +1,17 @@
+{
+  "name": "ApiRequest",
+  "version": "1.0.0",
+  "description": "How can I get request from external resources?",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -p 8080 -s -c-1"
+  },
+  "keywords": [
+    "api",
+    "request",
+    "external",
+    "resources"
+  ],
+  "author": "Dilara Görüm",
+  "license": "ISC"
+}
